@@ -1,5 +1,6 @@
 Step 1. Navigate to HotPizza.Com
 Step 2. Select 2 large pizzas
+Step 2a: Choose the toppings
 Step 3. Provide payment information
 Step 4. Provide delivery address
 Step 5. Get asked a million times regarding the pizza's eta
